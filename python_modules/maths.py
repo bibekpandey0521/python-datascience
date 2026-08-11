@@ -1,4 +1,6 @@
 def sum_two_numbers(a, b):
+    """ add two numbers and return result
+    """
     return a + b
 
 def multiply_two_numbers(a, b):
